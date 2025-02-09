@@ -1,0 +1,297 @@
+.text1 video{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+.text2 img{
+    position: absolute;
+    color: red;
+    top: 30px;
+    left: 100px;
+    border-radius: 50%;
+    width:55px;
+    background-image: linear-gradient(black );
+    
+}
+.toshkent{
+    position: absolute;
+    color: white;
+    left: 170px;
+    top: 20px;
+    width: 900px;
+    height: 40px;
+    display: flex;
+    gap: 15px;font-size: x-large;
+}
+.son1 select{
+    margin-top: 20px;
+    width: 49px;
+    height: 30px;
+}
+.menu_box1{
+    width: 100%;
+    height: 90px;
+    background-color: rgb(218, 153, 70);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.left_content img{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    
+}
+.right_content{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+.right_content img{
+    width: 40px;
+    height: 40px;
+}
+.huge{
+    width: 100%;
+    height: 260px;
+    display: flex;
+    position: relative;
+    gap: 300px;
+    top: 30px;
+    
+  
+}
+.new1 img{
+position: absolute;
+border-radius: 50%;
+width: 250px;
+height: 250px;
+margin-left:100px;
+
+}
+.kattafayl{
+    width: 100%;
+    height: auto;
+}
+.qora{
+ width: 45px;
+ height: 45px;
+ border-radius: 50%;
+ background-color: black;
+ position: absolute;
+ border: solid 3px white;
+ margin-top: 40px;
+ margin-left: 100px;
+ text-align: center;
+ align-items: center;
+ justify-content: center;
+ display: flex;
+}
+.huge2{
+    width: 100%;
+    height: 300px;
+    display: flex; 
+    justify-content: center;
+    gap: 20px;
+}
+.new2{
+    
+    width: 210px;
+    height: 210px;
+    margin:45px;
+    text-align: center;
+    margin-left: 35px;
+
+    }
+.tramendous{
+    width: 100%;
+    height: 450px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: rgb(199, 155, 129);
+}  
+.the1 img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    
+
+}  
+.the2 img{
+    border-radius: 50%;
+    width: 270px;
+    height: 270px;
+    border: 20px solid rgb(238, 206, 191)
+
+}
+.config{
+    width: 100%;
+    height: 500px;
+    position: relative;
+    display: flex;
+    gap: 5px;
+    left: 60px;
+    top: 30px;
+    justify-content: center;
+    
+}
+.quti{
+    width: 22%;
+    height: 500px;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.quti img{
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 270px;
+    height: 270px;
+}
+.quti1{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.quti1 img{
+     
+     height: 130px;
+     width: 170px;
+     
+}
+.config1{
+    width: 100%;
+    height: 40 0px;
+    position: relative;
+    display: flex;
+    gap: 40px;
+    left: 60px;
+    top: 30px;
+    justify-content: center;
+    
+}
+.diamond{
+    width: 100%;
+    height: 500px;
+     display: flex;
+     
+     justify-content: center;
+     align-items: center;
+     gap: 150px;
+     position: relative;
+     
+}
+
+.diamond{
+    width:100% ;
+    height: 500px;
+    position: relative;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.diamonds{
+    width:500px ;
+    height: 320px;
+    
+}
+.diamonds img{
+    border-radius: 20px;
+    position: absolute; 
+    width: 500px;
+    height: 320px;
+}
+.dimonds1{
+    width: 100px;
+    height: 100px;
+    margin-top: 100px;
+    margin-left: 435px;
+    border-radius: 50%;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color:burlywood ;
+    border: 10px solid white;
+}
+.space{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    display: flex;
+    
+    gap: 5px;
+    left: 60px;
+    top: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.none{
+    width: 25%;
+    height: 500px;
+    
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.none img{
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 320px;
+    height: 320px;
+    position: relative;
+    
+    
+}
+.one{
+    position: absolute;
+    width: 100px;
+    background-color: rgb(243, 207, 140);
+    height: 100px;
+    margin-left: 110px;
+    margin-top: -220px;
+    border-radius: 50%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 10px solid white;
+}
+.fon{
+    width: 25% ;
+    height: 400px;
+    background-color: rgb(13, 13, 14);
+}
+.coin{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    
+    display: flex;
+    position: relative;
+    background-color: aquamarine;
+}
+.fon img{
+    border-radius: 50%;
+    margin-top: 50px;
+    background-color: white;
+}
+.fon p{
+    margin-top: 30px;
+    
+}
